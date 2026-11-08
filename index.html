@@ -1,0 +1,125 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>CineNova | Recomendador de películas</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header class="encabezado">
+        <h1>🎬 CineNova</h1>
+        <p>Descubre tu próxima película favorita</p>
+        <span>Recomendador de películas</span>
+        <small>Por: Fabiola Chávez Cruz</small>
+    </header>
+
+    <main class="contenedor">
+
+        <section class="seccion">
+            <h2>1. ¿Qué edad tienes?</h2>
+            <p>Ingresa tu edad para recibir recomendaciones adecuadas.</p>
+
+            <div class="edad-contenedor">
+                <input
+                    type="number"
+                    id="edad"
+                    min="2"
+                    max="120"
+                    placeholder="Ingresa tu edad"
+                >
+            </div>
+
+            <p class="nota-edad">
+                Rangos: 2 a 12 años, 13 a 17 años y 18 años o más.
+            </p>
+        </section>
+
+        <section class="seccion">
+            <h2>2. Selecciona tus géneros favoritos</h2>
+            <p>Puedes elegir uno o varios géneros.</p>
+
+            <div class="generos">
+
+                <button class="genero" data-genero="Animación">
+                    🎨 Animación
+                </button>
+
+                <button class="genero" data-genero="Aventura">
+                    🗺️ Aventura
+                </button>
+
+                <button class="genero" data-genero="Comedia">
+                    😂 Comedia
+                </button>
+
+                <button class="genero" data-genero="Romance">
+                    💗 Romance
+                </button>
+
+                <button class="genero" data-genero="Fantasía">
+                    🪄 Fantasía
+                </button>
+
+                <button class="genero" data-genero="Ciencia ficción">
+                    🚀 Ciencia ficción
+                </button>
+
+                <button class="genero" data-genero="Drama">
+                    🎭 Drama
+                </button>
+
+                <button class="genero" data-genero="Misterio">
+                    🔎 Misterio
+                </button>
+
+                <button class="genero" data-genero="Terror">
+                    👻 Terror
+                </button>
+
+            </div>
+
+            <div class="acciones">
+                <button class="boton-buscar" onclick="buscarPeliculas()">
+                    Buscar películas
+                </button>
+
+                <button class="boton-limpiar" onclick="limpiarFormulario()">
+                    Limpiar selección
+                </button>
+            </div>
+        </section>
+
+        <div id="mensaje" role="status"></div>
+
+        <section class="resultados-seccion">
+            <h2>🍿 Tus recomendaciones</h2>
+
+            <div id="resultados" class="resultados">
+
+                <div class="mensaje-inicial">
+                    <span>🎥</span>
+                    <p>
+                        Selecciona tu edad y tus géneros favoritos
+                        para descubrir películas.
+                    </p>
+                </div>
+
+            </div>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>© 2026 CineNova | Encuentra tu próxima película favorita</p>
+    </footer>
+
+    <script src="script.js"></script>
+
+</body>
+</html>

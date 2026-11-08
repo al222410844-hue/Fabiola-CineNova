@@ -1,0 +1,195 @@
+
+[
+    {
+        "titulo": "Intensamente",
+        "genero": "Animación",
+        "edadMinima": 2,
+        "emoji": "🌈",
+        "clasificacion": "A",
+        "descripcion": "Una aventura sobre las emociones y los sentimientos."
+    },
+    {
+        "titulo": "Coco",
+        "genero": "Animación",
+        "edadMinima": 2,
+        "emoji": "🎸",
+        "clasificacion": "A",
+        "descripcion": "Un niño descubre la historia de su familia."
+    },
+    {
+        "titulo": "Toy Story",
+        "genero": "Animación",
+        "edadMinima": 2,
+        "emoji": "🤠",
+        "clasificacion": "A",
+        "descripcion": "Los juguetes viven increíbles aventuras."
+    },
+    {
+        "titulo": "Buscando a Nemo",
+        "genero": "Aventura",
+        "edadMinima": 2,
+        "emoji": "🐠",
+        "clasificacion": "A",
+        "descripcion": "Un pez emprende un viaje para encontrar a su hijo."
+    },
+    {
+        "titulo": "Paddington",
+        "genero": "Aventura",
+        "edadMinima": 2,
+        "emoji": "🐻",
+        "clasificacion": "A",
+        "descripcion": "Un oso encuentra un nuevo hogar y una familia."
+    },
+    {
+        "titulo": "Cómo entrenar a tu dragón",
+        "genero": "Aventura",
+        "edadMinima": 2,
+        "emoji": "🐉",
+        "clasificacion": "A",
+        "descripcion": "Un joven vikingo desarrolla una amistad con un dragón."
+    },
+    {
+        "titulo": "Mi pobre angelito",
+        "genero": "Comedia",
+        "edadMinima": 2,
+        "emoji": "🏠",
+        "clasificacion": "A",
+        "descripcion": "Un niño debe arreglárselas durante las vacaciones."
+    },
+    {
+        "titulo": "Matilda",
+        "genero": "Comedia",
+        "edadMinima": 2,
+        "emoji": "📚",
+        "clasificacion": "A",
+        "descripcion": "Una niña inteligente descubre habilidades especiales."
+    },
+    {
+        "titulo": "Una esposa de mentira",
+        "genero": "Comedia",
+        "edadMinima": 13,
+        "emoji": "😂",
+        "clasificacion": "B",
+        "descripcion": "Una mentira provoca situaciones inesperadas."
+    },
+    {
+        "titulo": "El castillo ambulante",
+        "genero": "Fantasía",
+        "edadMinima": 2,
+        "emoji": "🏰",
+        "clasificacion": "A",
+        "descripcion": "Una joven conoce a un misterioso mago."
+    },
+    {
+        "titulo": "Las crónicas de Narnia",
+        "genero": "Fantasía",
+        "edadMinima": 2,
+        "emoji": "🦁",
+        "clasificacion": "A",
+        "descripcion": "Cuatro hermanos descubren un mundo mágico."
+    },
+    {
+        "titulo": "Mi vecino Totoro",
+        "genero": "Fantasía",
+        "edadMinima": 2,
+        "emoji": "🌳",
+        "clasificacion": "A",
+        "descripcion": "Dos hermanas descubren criaturas mágicas."
+    },
+    {
+        "titulo": "WALL-E",
+        "genero": "Ciencia ficción",
+        "edadMinima": 2,
+        "emoji": "🤖",
+        "clasificacion": "A",
+        "descripcion": "Un robot vive una aventura para cuidar el planeta."
+    },
+    {
+        "titulo": "Regreso al futuro",
+        "genero": "Ciencia ficción",
+        "edadMinima": 13,
+        "emoji": "⏰",
+        "clasificacion": "B",
+        "descripcion": "Un joven viaja accidentalmente al pasado."
+    },
+    {
+        "titulo": "La llegada",
+        "genero": "Ciencia ficción",
+        "edadMinima": 18,
+        "emoji": "🛸",
+        "clasificacion": "C",
+        "descripcion": "Una lingüista intenta comunicarse con visitantes extraterrestres."
+    },
+    {
+        "titulo": "Mujercitas",
+        "genero": "Drama",
+        "edadMinima": 2,
+        "emoji": "🌷",
+        "clasificacion": "A",
+        "descripcion": "Cuatro hermanas persiguen sus sueños."
+    },
+    {
+        "titulo": "En busca de la felicidad",
+        "genero": "Drama",
+        "edadMinima": 13,
+        "emoji": "🌇",
+        "clasificacion": "B",
+        "descripcion": "Un padre lucha por construir un mejor futuro."
+    },
+    {
+        "titulo": "El niño con el pijama de rayas",
+        "genero": "Drama",
+        "edadMinima": 18,
+        "emoji": "🎞️",
+        "clasificacion": "C",
+        "descripcion": "Una historia dramática ambientada durante la Segunda Guerra Mundial."
+    },
+    {
+        "titulo": "Enola Holmes",
+        "genero": "Misterio",
+        "edadMinima": 2,
+        "emoji": "🔎",
+        "clasificacion": "A",
+        "descripcion": "Una joven detective investiga un misterioso caso."
+    },
+    {
+        "titulo": "Detective Pikachu",
+        "genero": "Misterio",
+        "edadMinima": 2,
+        "emoji": "⚡",
+        "clasificacion": "A",
+        "descripcion": "Un joven investiga una desaparición junto a Pikachu."
+    },
+    {
+        "titulo": "Knives Out",
+        "genero": "Misterio",
+        "edadMinima": 18,
+        "emoji": "🕵️",
+        "clasificacion": "C",
+        "descripcion": "Un detective investiga un misterioso crimen familiar."
+    },
+    {
+        "titulo": "La noche del demonio",
+        "genero": "Terror",
+        "edadMinima": 18,
+        "emoji": "👻",
+        "clasificacion": "C",
+        "descripcion": "Una familia experimenta sucesos paranormales."
+    },
+    {
+        "titulo": "El conjuro",
+        "genero": "Terror",
+        "edadMinima": 18,
+        "emoji": "🏚️",
+        "clasificacion": "C",
+        "descripcion": "Dos investigadores estudian un caso paranormal."
+    },
+    {
+        "titulo": "La monja",
+        "genero": "Terror",
+        "edadMinima": 18,
+        "emoji": "🕯️",
+        "clasificacion": "C",
+        "descripcion": "Un misterio sobrenatural ocurre en un antiguo convento."
+    }
+]
